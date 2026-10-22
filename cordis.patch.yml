@@ -1,0 +1,4 @@
+- insert:
+    - id: local-startup-skip
+      name: '@local/dsh-startup-skip'
+      config: {}

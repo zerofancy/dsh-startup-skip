@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Skip Startup Sign-in",
+    "description": "One-shot startup welcome compatibility shim for DSH Desktop 0.2.1-rc.2. No stored API keys or changes to model authentication. Fully restart after installation."
+  }
+}
